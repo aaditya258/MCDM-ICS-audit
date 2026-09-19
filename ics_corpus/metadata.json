@@ -1,0 +1,171 @@
+{
+ "2024-01": {
+  "n": 57,
+  "constant_columns": [],
+  "advisories": 20
+ },
+ "2024-02": {
+  "n": 235,
+  "constant_columns": [],
+  "advisories": 23
+ },
+ "2024-03": {
+  "n": 106,
+  "constant_columns": [],
+  "advisories": 24
+ },
+ "2024-04": {
+  "n": 127,
+  "constant_columns": [],
+  "advisories": 19
+ },
+ "2024-05": {
+  "n": 113,
+  "constant_columns": [],
+  "advisories": 29
+ },
+ "2024-06": {
+  "n": 135,
+  "constant_columns": [],
+  "advisories": 39
+ },
+ "2024-07": {
+  "n": 91,
+  "constant_columns": [],
+  "advisories": 38
+ },
+ "2024-08": {
+  "n": 91,
+  "constant_columns": [],
+  "advisories": 38
+ },
+ "2024-09": {
+  "n": 99,
+  "constant_columns": [],
+  "advisories": 48
+ },
+ "2024-10": {
+  "n": 85,
+  "constant_columns": [],
+  "advisories": 45
+ },
+ "2024-11": {
+  "n": 127,
+  "constant_columns": [],
+  "advisories": 31
+ },
+ "2024-12": {
+  "n": 95,
+  "constant_columns": [
+   "SSVC_Exploitation"
+  ],
+  "advisories": 28
+ },
+ "2025-01": {
+  "n": 35,
+  "constant_columns": [],
+  "advisories": 27
+ },
+ "2025-02": {
+  "n": 140,
+  "constant_columns": [],
+  "advisories": 37
+ },
+ "2025-03": {
+  "n": 117,
+  "constant_columns": [],
+  "advisories": 30
+ },
+ "2025-04": {
+  "n": 208,
+  "constant_columns": [],
+  "advisories": 29
+ },
+ "2025-05": {
+  "n": 79,
+  "constant_columns": [],
+  "advisories": 40
+ },
+ "2025-06": {
+  "n": 111,
+  "constant_columns": [],
+  "advisories": 29
+ },
+ "2025-07": {
+  "n": 88,
+  "constant_columns": [],
+  "advisories": 33
+ },
+ "2025-08": {
+  "n": 504,
+  "constant_columns": [],
+  "advisories": 55
+ },
+ "2025-09": {
+  "n": 72,
+  "constant_columns": [],
+  "advisories": 34
+ },
+ "2025-10": {
+  "n": 53,
+  "constant_columns": [],
+  "advisories": 27
+ },
+ "2025-11": {
+  "n": 82,
+  "constant_columns": [],
+  "advisories": 40
+ },
+ "2025-12": {
+  "n": 79,
+  "constant_columns": [],
+  "advisories": 39
+ },
+ "2026-01": {
+  "n": 119,
+  "constant_columns": [],
+  "advisories": 35
+ },
+ "2026-02": {
+  "n": 193,
+  "constant_columns": [],
+  "advisories": 47
+ },
+ "2026-03": {
+  "n": 96,
+  "constant_columns": [],
+  "advisories": 35
+ },
+ "2026-04": {
+  "n": 84,
+  "constant_columns": [],
+  "advisories": 32
+ },
+ "2026-05": {
+  "n": 130,
+  "constant_columns": [],
+  "advisories": 39
+ },
+ "2026-06": {
+  "n": 114,
+  "constant_columns": [],
+  "advisories": 34
+ },
+ "2026-07": {
+  "n": 224,
+  "constant_columns": [],
+  "advisories": 53
+ },
+ "2026-08": {
+  "n": 69,
+  "constant_columns": [],
+  "advisories": 31
+ },
+ "2026-09": {
+  "n": 65,
+  "constant_columns": [
+   "SSVC_Exploitation"
+  ],
+  "advisories": 21
+ }
+}
