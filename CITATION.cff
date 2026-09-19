@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Auditing and compensating the normalization step in MCDM: code and ICS decision-matrix corpus"
+version: 2.0.0
+date-released: 2026-09-19
+authors:
+  - name: "Anonymous (withheld for double-blind review)"
+preferred-citation:
+  type: article
+  title: "Auditing and Compensating the Normalization Step in MCDM-Based Risk Prioritization for Industrial Control Systems"
+  journal: "International Journal of Information Technology & Decision Making"
+  year: 2026
+  authors:
+    - name: "Anonymous (withheld for double-blind review)"

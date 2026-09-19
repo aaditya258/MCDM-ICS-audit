@@ -1,0 +1,6 @@
+.venv/
+feeds/
+__pycache__/
+*.pyc
+figures/*.aux
+figures/*.log
