@@ -1,0 +1,22 @@
+n 69 pairs 2346 distinct 58
+SSVC_Exploitation      min 0.00000 med 0.00000 max 1.00000 norm 1.414 kappa 0.707 w~ 0.296 shift +12.9 w* 0.051 nonzero 5
+SSVC_Automatable       min 0.00000 med 0.00000 max 1.00000 norm 4.123 kappa 0.243 w~ 0.101 shift -6.5 w* 0.150 nonzero 17
+SSVC_TechnicalImpact   min 0.00000 med 0.00000 max 1.00000 norm 5.745 kappa 0.174 w~ 0.073 shift -9.4 w* 0.209 nonzero 33
+CVSS_Exploitability    min 0.30000 med 2.80000 max 3.90000 norm 22.949 kappa 0.157 w~ 0.066 shift -10.1 w* 0.232 nonzero 69
+CVSS_Impact            min 1.40000 med 5.20000 max 6.00000 norm 40.506 kappa 0.114 w~ 0.047 shift -11.9 w* 0.321 nonzero 69
+EPSS                   min 0.00065 med 0.00229 max 0.99780 norm 0.999 kappa 0.999 w~ 0.417 shift +25.1 w* 0.036 nonzero 69
+nu 8.79 dw 0.380 flag 235 normonly 235 topsis 283 tmm 24 comp 24 both 221 prec 0.940 rec 0.781
+tau v 0.795 t 0.754 c 0.979 eq 2.2e-16
+disp v 5.7 35
+disp t 7.1 44
+disp c 0.6 7
+top 5 [5, 1, 5]
+top 10 [9, 6, 10]
+top 20 [12, 12, 20]
+expl counts {np.float64(0.0): 64, np.float64(0.5): 4, np.float64(1.0): 1} autom yes 17 TI total 33
+CVE-2026-19670 [5.00e-01 0.00e+00 0.00e+00 2.80e+00 2.50e+00 1.85e-03] add 49 topsis 5 comp 49
+CVE-2026-76060 [0.      0.      1.      2.8     5.9     0.02315] add 11 topsis 23 comp 11
+a [ 0.0833  0.     -0.1667  0.     -0.1232 -0.0036] s1 -0.2101 ka [ 0.0589  0.     -0.029   0.     -0.014  -0.0036] s2 0.0124 flag True
+poc: [('CVE-2026-19670', np.float64(0.0), np.float64(2.5), np.float64(49.0), np.float64(5.0), np.float64(49.0)), ('CVE-2026-19671', np.float64(0.0), np.float64(3.6), np.float64(43.0), np.float64(2.0), np.float64(46.0)), ('CVE-2026-63133', np.float64(0.0), np.float64(3.6), np.float64(44.0), np.float64(3.0), np.float64(47.0)), ('CVE-2026-63134', np.float64(0.0), np.float64(2.5), np.float64(48.0), np.float64(4.0), np.float64(48.0))]
+top5 add: [('CVE-2019-11043', np.float64(1.0)), ('CVE-2026-19188', np.float64(6.0)), ('CVE-2026-58115', np.float64(7.0)), ('CVE-2026-76943', np.float64(8.0)), ('CVE-2026-78239', np.float64(9.0))]
+ENC alt kappa [0.212 0.091 0.077 0.157 0.114 0.999] dw 0.439 same additive True vec differ pairs 128 topsis differ pairs 125 alt topsis inv 210 alt comp 24

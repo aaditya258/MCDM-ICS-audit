@@ -1,0 +1,9 @@
+problem                           n x m    nu     dw largest shift   flagged    T    c   tau_T   tau_c
+recent_R1_ev_2021                12x11    8.7  0.114 Price     +6.2    2/66     8    2   0.758   0.939
+recent_R2_wte_johannesburg        5x14    3.0  0.076 C11       +4.8    0/10     0    0   1.000   1.000
+recent_R3_windfarm_poland         4x10   12.2  0.168 C3        +9.8    1/6      0    3   1.000   0.000
+recent_R4_ev_urban_logistics      9x12   23.0  0.353 Cargo    +10.1   11/36    12    4   0.333   0.778
+recent_R5_warehouse_belgrade      5x8     4.1  0.192 LandCost -12.8    2/10     5    1   0.000   0.800
+
+Proposition 1 check, max |CC_vec(w*) - CC_mm(w)|: 2.2e-16
+wrote outputs/published_results.json
